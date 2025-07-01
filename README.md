@@ -2,7 +2,7 @@
 
 ---
 
-##  Overview
+## Overview
 This project is a simple, console-based Smart Task Scheduler developed using C++. It allows users to manage their daily tasks efficiently with functionalities like adding, viewing, marking as complete, and deleting tasks. The system uses a text file (tasks.txt) for persistent data storage, ensuring that task information is saved and loaded across sessions.
 
 ### نظرة عامة
@@ -10,7 +10,7 @@ This project is a simple, console-based Smart Task Scheduler developed using C++
 
 ---
 
-##  Key Features
+## Key Features
 * **Comprehensive Task Management:**
     * **Add New Task:** Easily add new tasks with a description, due date, and priority level.
     * **Mark as Completed:** Update the status of tasks once they are finished.
@@ -48,7 +48,7 @@ This project is a simple, console-based Smart Task Scheduler developed using C++
 
 ---
 
-##  Technologies & Concepts Used
+## Technologies & Concepts Used
 * **Programming Language:** C++
 * **Data Structuring:** `struct` to define `Task` objects for organizing task attributes.
 * **Dynamic Collections:** `std::vector` for dynamic storage and management of `Task` objects in memory.
@@ -72,7 +72,7 @@ This project is a simple, console-based Smart Task Scheduler developed using C++
 
 ---
 
-##  How It Works
+## How It Works
 The application operates through a main menu from which users can select various operations.
 * **Data Loading:** Upon startup, the system attempts to load existing task records from `tasks.txt` into an `std::vector<Task>` in memory.
 * **User Interaction:** Users interact with the system via console input, choosing options like adding, listing, marking as completed, or deleting tasks.
@@ -88,7 +88,7 @@ The application operates through a main menu from which users can select various
 
 ---
 
-##  Setup and Run
+## Setup and Run
 To set up and run this project locally:
 
 1.  **Save the code:** Save the provided C++ code into a file named `smart_task_scheduler.cpp`.
@@ -134,23 +134,23 @@ To set up and run this project locally:
 
 ---
 
-##  Screenshots (لقطات شاشة)
+## Screenshots (لقطات شاشة)
 Here are visual demonstrations of the Smart Task Scheduler in action:
 
 ### 1. Main Menu
-![Main Menu](screenshots/01-Main-Menu.png)
+![Main Menu](https://raw.githubusercontent.com/shahadwalee/Smart-Task-Scheduler-CPP/main/ALLScreenshots/Main_Menu.png)
 
-### 2. Add Task - Request Description
-![Add Task Request Description](screenshots/02-Add-Task-Request-Description.png)
+### 2. Add Task
+![Add Task](https://raw.githubusercontent.com/shahadwalee/Smart-Task-Scheduler-CPP/main/ALLScreenshots/Add_Task.png)
 
 ### 3. Show All Tasks
-![Show All Tasks](screenshots/03-Show-All-Tasks.png)
+![Show All Tasks](https://raw.githubusercontent.com/shahadwalee/Smart-Task-Scheduler-CPP/main/ALLScreenshots/Show_All.png)
 
 ### 4. Show Upcoming Tasks
-![Show Upcoming Tasks](screenshots/04-Show-Upcoming-Tasks.png)
+![Show Upcoming Tasks](https://raw.githubusercontent.com/shahadwalee/Smart-Task-Scheduler-CPP/main/ALLScreenshots/Show_Tasks.png)
 
-### 5. Mark Task - Request ID
-![Mark Task Request ID](screenshots/05-Mark-Task-Request-ID.png)
+### 5. Mark Task
+![Mark Task](https://raw.githubusercontent.com/shahadwalee/Smart-Task-Scheduler-CPP/main/ALLScreenshots/Mark_Task.png)
 
-### 6. Delete Task - Request ID
-![Delete Task Request ID](screenshots/06-Delete-Task-Request-ID.png)
+### 6. Delete Task
+![Delete Task](https://raw.githubusercontent.com/shahadwalee/Smart-Task-Scheduler-CPP/main/ALLScreenshots/Delete_Task.png)
