@@ -116,19 +116,19 @@ To set up and run this project locally:
 Here are visual demonstrations of the Smart Task Scheduler in action:
 
 ### 1. Main Menu
-![Main Menu](https://raw.githubusercontent.com/shahadwalee/Smart-Task-Scheduler-CPP/main/Screenshots/Main_Menu.png)
+![Main Menu](https://raw.githubusercontent.com/shahadwalee/Smart-Task-Scheduler-CPP/main/ALLScreenshots/Main_Menu.png)
 
 ### 2. Add Task
-![Add Task](https://raw.githubusercontent.com/shahadwalee/Smart-Task-Scheduler-CPP/main/Screenshots/Add_Task.png)
+![Add Task](https://raw.githubusercontent.com/shahadwalee/Smart-Task-Scheduler-CPP/main/ALLScreenshots/Add_Task.png)
 
 ### 3. Show All Tasks
-![Show All Tasks](https://raw.githubusercontent.com/shahadwalee/Smart-Task-Scheduler-CPP/main/Screenshots/Show_All.png)
+![Show All Tasks](https://raw.githubusercontent.com/shahadwalee/Smart-Task-Scheduler-CPP/main/ALLScreenshots/Show_All.png)
 
 ### 4. Show Upcoming Tasks
-![Show Upcoming Tasks](https://raw.githubusercontent.com/shahadwalee/Smart-Task-Scheduler-CPP/main/Screenshots/Show_Tasks.png)
+![Show Upcoming Tasks](https://raw.githubusercontent.com/shahadwalee/Smart-Task-Scheduler-CPP/main/ALLScreenshots/Show_Tasks.png)
 
 ### 5. Mark Task
-![Mark Task](https://raw.githubusercontent.com/shahadwalee/Smart-Task-Scheduler-CPP/main/Screenshots/Mark_Task.png)
+![Mark Task](https://raw.githubusercontent.com/shahadwalee/Smart-Task-Scheduler-CPP/main/ALLScreenshots/Mark_Task.png)
 
 ### 6. Delete Task
-![Delete Task](https://raw.githubusercontent.com/shahadwalee/Smart-Task-Scheduler-CPP/main/Screenshots/Delete_Task.png)
+![Delete Task](https://raw.githubusercontent.com/shahadwalee/Smart-Task-Scheduler-CPP/main/ALLScreenshots/Delete_Task.png)
