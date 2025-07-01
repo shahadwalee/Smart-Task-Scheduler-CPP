@@ -110,47 +110,25 @@ To set up and run this project locally:
     * **From Visual Studio:**
         Run the compiled executable directly from the Debug/Release folder, or use Visual Studio's Run button (usually F5).
 
-### الإعداد والتشغيل
-لإعداد وتشغيل هذا المشروع محليًا:
-
-1.  **حفظ الكود:** احفظ كود C++ المقدم في ملف باسم `smart_task_scheduler.cpp`.
-2.  **تجميع الكود (Compile the code):**
-    * **باستخدام g++ (MinGW/Linux):**
-        افتح الطرفية أو موجه الأوامر، انتقل إلى الدليل الذي حفظت فيه الملف، ثم قم بتشغيل:
-        ```bash
-        g++ smart_task_scheduler.cpp -o smart_task_scheduler
-        ```
-        (تأكد من تثبيت g++ على نظامك).
-    * **باستخدام Visual Studio:**
-        قم بإنشاء مشروع جديد لتطبيق وحدة تحكم C++ في Visual Studio. أضف ملف `smart_task_scheduler.cpp` إلى مشروعك. ثم، قم ببناء الحل (Build the solution).
-3.  **تشغيل الملف التنفيذي:**
-    * **من الطرفية (g++):**
-        ```bash
-        ./smart_task_scheduler # على Linux/macOS
-        smart_task_scheduler.exe # على Windows
-        ```
-    * **من Visual Studio:**
-        شغل الملف التنفيذي المجمع مباشرة من مجلد Debug/Release، أو من خلال زر التشغيل في Visual Studio (عادةً F5).
-
 ---
 
 ## Screenshots (لقطات شاشة)
 Here are visual demonstrations of the Smart Task Scheduler in action:
 
 ### 1. Main Menu
-![Main Menu](https://raw.githubusercontent.com/shahadwalee/Smart-Task-Scheduler-CPP/main/ALLScreenshots/Main_Menu.png)
+![Main Menu](https://raw.githubusercontent.com/shahadwalee/Smart-Task-Scheduler-CPP/main/Screenshots/Main_Menu.png)
 
 ### 2. Add Task
-![Add Task](https://raw.githubusercontent.com/shahadwalee/Smart-Task-Scheduler-CPP/main/ALLScreenshots/Add_Task.png)
+![Add Task](https://raw.githubusercontent.com/shahadwalee/Smart-Task-Scheduler-CPP/main/Screenshots/Add_Task.png)
 
 ### 3. Show All Tasks
-![Show All Tasks](https://raw.githubusercontent.com/shahadwalee/Smart-Task-Scheduler-CPP/main/ALLScreenshots/Show_All.png)
+![Show All Tasks](https://raw.githubusercontent.com/shahadwalee/Smart-Task-Scheduler-CPP/main/Screenshots/Show_All.png)
 
 ### 4. Show Upcoming Tasks
-![Show Upcoming Tasks](https://raw.githubusercontent.com/shahadwalee/Smart-Task-Scheduler-CPP/main/ALLScreenshots/Show_Tasks.png)
+![Show Upcoming Tasks](https://raw.githubusercontent.com/shahadwalee/Smart-Task-Scheduler-CPP/main/Screenshots/Show_Tasks.png)
 
 ### 5. Mark Task
-![Mark Task](https://raw.githubusercontent.com/shahadwalee/Smart-Task-Scheduler-CPP/main/ALLScreenshots/Mark_Task.png)
+![Mark Task](https://raw.githubusercontent.com/shahadwalee/Smart-Task-Scheduler-CPP/main/Screenshots/Mark_Task.png)
 
 ### 6. Delete Task
-![Delete Task](https://raw.githubusercontent.com/shahadwalee/Smart-Task-Scheduler-CPP/main/ALLScreenshots/Delete_Task.png)
+![Delete Task](https://raw.githubusercontent.com/shahadwalee/Smart-Task-Scheduler-CPP/main/Screenshots/Delete_Task.png)
